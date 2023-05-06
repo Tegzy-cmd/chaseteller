@@ -23,7 +23,7 @@
       <div class="footer-copyright pt-3 pt-lg-2 mt-2">
         <div class="row">
           <div class="col-lg">
-            <p class="text-center text-lg-left mb-2 mb-lg-0">Copyright &copy; <script>document.write(new Date().getFullYear());</script> <a href="#">ChasetellerBank</a>. All Rights Reserved.</p>
+            <p class="text-center text-lg-left mb-2 mb-lg-0">Copyright &copy; <script>document.write(new Date().getFullYear());</script> <a href="#">UBSTransactBank</a>. All Rights Reserved.</p>
           </div>
           <div class="col-lg d-lg-flex align-items-center justify-content-lg-end">
             <ul class="nav justify-content-center">

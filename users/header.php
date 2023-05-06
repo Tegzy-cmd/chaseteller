@@ -8,13 +8,13 @@
 <title>
   <?php 
     if (isset($_SESSION['dashboard_title'])) {
-      echo $_SESSION['dashboard_title'] . " - ChasetellerBank";
+      echo $_SESSION['dashboard_title'] . " - UBSTransactBank";
     } else {
-      echo "ChasetellerBank"; 
+      echo "UBSTransactBank"; 
     }
   ?>
 </title>
-<meta name="description" content="ChasetellerBank is a banking platform for payment and receiving of money worldwide.">
+<meta name="description" content="UBSTransactBank is a banking platform for payment and receiving of money worldwide.">
 <meta name="author" content="Aleph-Null">
 
 <!-- Web Fonts
@@ -31,8 +31,11 @@
 <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
 
 <style type="text/css">
+   .cliff-logo { 
+            width: 130px; 
+        }
     @media (max-width: 768px) {
-        .clifftop-logo { 
+        .cliff-logo { 
             width: 130px; 
         }
         .recent-act {
@@ -83,8 +86,8 @@
           <!-- Logo
           ============================= -->
           <div class="logo"> 
-            <a class="d-flex" href="dashboard.php" title="ChasetellerBank - Online Banking">
-              <img src="../images/cliff-logo.png" alt="CliffTop" class="clifftop-logo" />
+            <a class="d-flex" href="dashboard.php" title="UBSTransactBank - Online Banking">
+              <img src="../images/logo.png" alt="CliffTop" class="cliff-logo" />
             </a> 
           </div>
           <!-- Logo end --> 

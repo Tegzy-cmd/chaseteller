@@ -91,7 +91,17 @@ if (compare("inactive", $user_otp_status)) {
   <div data-loader="dual-ring"></div>
 </div>
 <!-- Preloader End -->
-
+<style type="text/css">
+  .cliff-logo{
+    width:150px;
+    height: 100px;
+  }
+    @media (max-width: 768px) {
+        .cliff-logo { 
+            width: 130px; 
+        }
+    }
+</style>
 <div id="main-wrapper" class="h-100">
   <div class="container-fluid px-0 h-100">
     <div class="row no-gutters h-100">
@@ -106,7 +116,7 @@ if (compare("inactive", $user_otp_status)) {
               <div class="col-10 col-lg-9 mx-auto">
                 <div class="logo mt-5 mb-5 mb-md-0"> 
                   <a class="d-flex" href="index.php" title="UBS Transact - Online Banking">
-                    <img src="images/login-logo.png" alt="UBS Transact"></a> 
+                    <img src="images/logo.png" alt="UBS Transact" class="cliff-logo"></a> 
                   </div>
               </div>
             </div>

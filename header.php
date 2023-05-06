@@ -56,7 +56,7 @@
           ============================= -->
           <div class="logo"> 
             <a class="d-flex" href="index.php" title="Bank - Online Banking">
-              <img src="images/cliff-logo.png" alt="Bank" class="clifftop-logo" />
+              <img src="images/logo.png" alt="Bank" class="clifftop-logo" />
             </a> 
           </div>
           <!-- Logo end -->
