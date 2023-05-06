@@ -1,0 +1,270 @@
+[26-Oct-2021 14:38:15 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[26-Oct-2021 14:38:15 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/withdraw-money-confirm.php on line 133
+[26-Oct-2021 22:46:22 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Oct-2021 02:14:53 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[27-Oct-2021 02:14:53 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/withdraw-money-confirm.php on line 133
+[30-Oct-2021 03:52:57 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[30-Oct-2021 05:02:52 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[01-Nov-2021 08:39:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[02-Nov-2021 14:22:10 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[02-Nov-2021 19:24:40 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-Nov-2021 14:56:06 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 09:52:27 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 09:52:29 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 09:52:29 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 10:19:29 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 10:56:51 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 14:26:15 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-Nov-2021 15:03:44 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[07-Nov-2021 13:32:26 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Nov-2021 10:00:32 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Nov-2021 10:06:01 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[08-Nov-2021 10:06:01 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 76
+[08-Nov-2021 10:16:22 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[08-Nov-2021 10:16:22 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 76
+[08-Nov-2021 10:16:57 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[08-Nov-2021 10:16:57 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 76
+[08-Nov-2021 14:22:33 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Nov-2021 16:50:38 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[12-Nov-2021 12:55:56 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: account_name in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 129
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: bank in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 131
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: trnx_id in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 138
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: bank in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 141
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: account_name in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 144
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: account_no in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 147
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: swift_code in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 150
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: routing_no in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 153
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: country in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 156
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: description in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 159
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: method in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 162
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: amount in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 168
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: currency in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 168
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: amount in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: currency in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 187
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: user_id in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 192
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: trnx_id in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 193
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: bank in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 194
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: account_name in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 195
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: account_no in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 196
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: swift_code in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 197
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: routing_no in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 198
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: country in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 199
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: method in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 200
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: currency in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 202
+[15-Nov-2021 16:50:26 America/New_York] PHP Notice:  Undefined index: description in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 203
+[16-Nov-2021 17:48:31 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[16-Nov-2021 17:48:31 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[16-Nov-2021 17:54:27 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[16-Nov-2021 17:54:27 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[16-Nov-2021 17:54:54 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[16-Nov-2021 17:54:54 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[16-Nov-2021 17:56:11 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[16-Nov-2021 17:56:11 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[16-Nov-2021 17:59:42 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[16-Nov-2021 17:59:42 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[16-Nov-2021 18:08:43 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[17-Nov-2021 06:12:11 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[22-Nov-2021 15:41:12 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[23-Nov-2021 03:52:32 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[23-Nov-2021 09:57:04 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[23-Nov-2021 09:57:15 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[24-Nov-2021 11:05:00 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Dec-2021 04:19:32 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Dec-2021 11:49:45 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Dec-2021 12:14:44 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[20-Dec-2021 12:45:58 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[22-Feb-2022 15:15:44 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Mar-2022 08:27:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Mar-2022 20:42:31 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[16-Apr-2022 06:10:24 America/New_York] PHP Notice:  Undefined variable: upd_id in /home/globuswg/chasetellerbank.com/users/profile-cards-and-bank.php on line 505
+[04-May-2022 11:10:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-May-2022 04:24:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[06-May-2022 12:33:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-May-2022 12:27:49 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[14-May-2022 04:49:27 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[14-May-2022 04:49:27 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/request-money-confirm.php on line 137
+[14-May-2022 09:31:37 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[14-May-2022 13:21:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[14-Jul-2022 20:55:35 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Jul-2022 07:30:26 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Jul-2022 09:49:24 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Jul-2022 10:46:08 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Jul-2022 11:00:33 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Jul-2022 14:53:15 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[16-Jul-2022 14:33:35 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[18-Jul-2022 10:35:57 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Jul-2022 08:24:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Jul-2022 13:39:05 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Jul-2022 14:45:54 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Jul-2022 15:08:42 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Jul-2022 17:17:42 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Jul-2022 20:28:24 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[28-Jul-2022 08:32:10 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[28-Jul-2022 15:34:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[29-Jul-2022 13:01:14 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[29-Jul-2022 14:17:53 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[29-Jul-2022 14:48:43 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[29-Jul-2022 21:23:00 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[30-Jul-2022 10:37:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[31-Jul-2022 02:08:22 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[02-Aug-2022 16:24:32 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[02-Aug-2022 19:28:30 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 11:01:07 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 12:40:29 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 13:36:34 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 13:45:22 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 13:45:22 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 13:47:50 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 13:47:50 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 16:27:14 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 17:59:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 17:59:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 17:59:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 18:02:24 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:02:24 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 18:06:27 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:06:27 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 18:45:27 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 18:48:12 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:48:12 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 18:49:10 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:49:10 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 18:50:14 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:50:14 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 18:50:50 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:50:50 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 18:51:16 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 18:51:16 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 19:35:39 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 19:35:39 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 20:01:57 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[03-Aug-2022 20:06:24 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 20:06:24 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 20:07:50 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 20:07:50 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 20:08:18 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 20:08:18 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 20:08:48 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 20:08:48 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[03-Aug-2022 20:10:10 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/includes/func.php on line 343
+[03-Aug-2022 20:10:10 America/New_York] PHP Notice:  A non well formed numeric value encountered in /home/globuswg/chasetellerbank.com/users/transfer-money-confirm.php on line 186
+[04-Aug-2022 09:06:00 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 11:23:22 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 12:22:48 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 12:59:20 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 15:02:36 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 15:02:37 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 16:34:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[04-Aug-2022 20:08:15 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-Aug-2022 11:35:08 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-Aug-2022 15:19:29 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-Aug-2022 18:04:08 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-Aug-2022 19:39:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[05-Aug-2022 19:53:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[07-Aug-2022 06:35:34 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[07-Aug-2022 08:33:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[07-Aug-2022 09:16:44 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[07-Aug-2022 10:38:41 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 09:01:55 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 09:01:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 11:59:00 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 11:59:00 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 13:55:36 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 13:55:54 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 13:56:32 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 13:56:54 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 14:38:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 14:56:41 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 17:58:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[08-Aug-2022 20:36:24 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 00:39:06 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 05:54:13 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 08:35:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 09:46:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 11:18:04 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 12:49:24 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 14:21:16 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 21:21:53 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[09-Aug-2022 23:18:38 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 04:40:09 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 08:21:41 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 12:13:57 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 12:45:31 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 12:45:31 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 12:45:55 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 12:48:33 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 12:56:12 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 13:00:31 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 13:04:27 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 13:22:11 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 13:26:28 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:12:43 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:17:19 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:18:26 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:18:27 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:19:06 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:20:10 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:20:11 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:21:06 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:22:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 14:34:10 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 15:27:55 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[10-Aug-2022 20:52:33 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[11-Aug-2022 09:07:51 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[12-Aug-2022 07:55:24 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 07:51:04 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 08:56:20 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 08:58:20 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 09:00:20 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 09:01:20 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 09:02:20 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[15-Aug-2022 09:42:24 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[21-Aug-2022 16:38:49 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[21-Aug-2022 16:39:40 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[21-Aug-2022 16:42:36 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[21-Aug-2022 16:47:50 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[21-Aug-2022 16:52:36 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[21-Aug-2022 17:01:48 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[13-Sep-2022 15:52:04 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[13-Sep-2022 17:06:17 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[13-Sep-2022 17:15:03 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[13-Sep-2022 17:26:15 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[13-Sep-2022 17:26:15 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[13-Sep-2022 17:58:31 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[20-Sep-2022 19:31:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[23-Sep-2022 21:48:00 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:41:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:42:40 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:42:46 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:43:51 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:43:53 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:45:09 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 12:57:36 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:03:39 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:03:43 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:03:58 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:03:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:04:08 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:30:25 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 13:30:27 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 14:37:47 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 14:37:49 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 14:57:19 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 15:01:10 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 15:01:16 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 16:30:09 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 18:21:04 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 18:52:10 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 18:52:13 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 18:53:19 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 18:56:51 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 18:59:21 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 19:27:59 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 19:28:01 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 20:03:35 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 20:03:48 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[26-Sep-2022 20:13:22 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Sep-2022 08:04:34 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[27-Sep-2022 11:28:49 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
+[30-Sep-2022 13:50:18 America/New_York] PHP Notice:  Undefined index: logged_in in /home/globuswg/chasetellerbank.com/includes/func.php on line 307
